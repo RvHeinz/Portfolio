@@ -11,14 +11,6 @@
 
 <!-- :star: Star me on GitHub — it helps! -->
 
-# Sections 📚
-
-✔️ Intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
-
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Remove my Bitmoji from the navbar and use yours instead.
