@@ -11,7 +11,7 @@
 
 <!-- :star: Star me on GitHub — it helps! -->
 
-## Installation & Deployment 📦
+## Installation :
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Remove my Bitmoji from the navbar and use yours instead.
 - Add or remove images from `https://github.com/RvHeinz/Portfolio/tree/main/src` directory as per your requirement.
